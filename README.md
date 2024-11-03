@@ -24,7 +24,7 @@ Windows 7 Service Pack 1(Windows NT6.1 Build 7601)をベースとしたもので
 # English
 This project is currently in inactive status
 
-Based on Windows 7 (Windows NT6.1 Build 7601) Service Pack 1
+Based on Windows 7 Service Pack 1 (Windows NT6.1 Build 7601) 
 
 The following drivers are currently added
 * AMD Ryzen Motherboard Driver
