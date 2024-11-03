@@ -1,4 +1,4 @@
-# Windows 7 Renewd Project
+# Windows 7 Renewed Project
 
 このプロジェクトは現在活動してない状態です
 
