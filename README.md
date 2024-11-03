@@ -1,4 +1,4 @@
-# Windows 7 Renewed Project
+![image](https://github.com/user-attachments/assets/66823f7a-db6e-4420-b574-6420ed514865)# Windows 7 Renewed Project
 
 このプロジェクトは現在活動してない状態です
 
@@ -19,7 +19,7 @@
 * Internet Explorer 11 for Final version
 * .Net Framework 4.8 Patch
 
-これらは原則、再配布は禁じております
+これらは関係のあるなしかかわらず原則、第三者への再配布等は固く禁じております
 
 # English
 This project is currently in inactive status
@@ -41,4 +41,5 @@ The following updates have been applied
 * Internet Explorer 11 for Final version
 * Net Framework 4.8 Patch
 
-Redistribution is prohibited in principle.
+Redistribution of these materials to third parties, whether related or not, is strictly prohibited.
+
