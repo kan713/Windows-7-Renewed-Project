@@ -2,7 +2,7 @@
 
 このプロジェクトは現在活動してない状態です
 
-ベースはWindows 7(Windows NT6.1 Build 7601) Service Pack 1をベースとしたものです
+Windows 7 Service Pack 1(Windows NT6.1 Build 7601)をベースとしたものです
 
 以下が、現在追加されてるドライバーです
 * AMD Ryzen Motherboard Driver
