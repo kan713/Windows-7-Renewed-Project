@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/66823f7a-db6e-4420-b574-6420ed514865)# Windows 7 Renewed Project
+# Windows 7 Renewed Project
 
 このプロジェクトは現在活動してない状態です
 
