@@ -11,7 +11,7 @@ Windows 7 Service Pack 1(Windows NT6.1 Build 7601)をベースとしたもので
 * Intel USB 3.1 Driver
 * LAN (一部を除く)
 * WLAN (Qualcom、Broadcom、Intel)
-* Audio (Realtek、Intel、NVIDIA)
+* Audio (Realtek、Intel、NVIDIA) ←署名関連で一部のデバイスでは正しく動作しない場合があります
 * AHCI (I'm not sure which one would work.)
 
 以下が更新プログラム適用済みのものです
@@ -33,7 +33,7 @@ The following drivers are currently added
 * Intel USB 3.1 Driver
 * LAN (except for a few)
 * WLAN (Qualcom, Broadcom, Intel)
-* Audio (Realtek, Intel, NVIDIA)
+* Audio (Realtek, Intel, NVIDIA) ←May not work properly on some devices due to signature-related issues
 * AHCI (I'm not sure which one would work.)
 
 The following updates have been applied
